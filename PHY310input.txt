@@ -1,0 +1,5 @@
+InitialVelocity:     50
+InitialHeight:       3
+Angle:		     30
+Timestep:            .001
+Rotation:         10
